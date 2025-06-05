@@ -1,0 +1,8 @@
+functions-framework==3.*
+#logging
+google-cloud-logging==3.11.3
+# read yaml
+pyyaml==6.0.2
+jira== 3.8.0
+google-cloud-resource-manager==1.14.2
+google-cloud-asset==3.30.1
